@@ -1,0 +1,14 @@
+[
+  {
+    "package": "CheckDigit",
+    "oncran": true
+  },
+  {
+    "package": "PhilipsHue",
+    "oncran": true
+  },
+  {
+    "package": "ZillowR",
+    "oncran": true
+  }
+]

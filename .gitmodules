@@ -3,3 +3,18 @@
 	url = https://github.com/r-universe-org/cran-to-git
 	shallow = true
 	branch = HEAD
+[submodule "CheckDigit"]
+	path = CheckDigit
+	url = https://gitlab.com/fascinatingfingers/checkdigit
+	shallow = true
+	registered = true
+[submodule "PhilipsHue"]
+	path = PhilipsHue
+	url = https://gitlab.com/fascinatingfingers/philipshue
+	shallow = true
+	registered = true
+[submodule "ZillowR"]
+	path = ZillowR
+	url = https://gitlab.com/fascinatingfingers/zillowr
+	shallow = true
+	registered = true
